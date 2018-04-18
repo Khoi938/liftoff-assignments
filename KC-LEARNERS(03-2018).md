@@ -4,7 +4,7 @@
 
 - [Matthews, Paul (@pdmxdd)](https://github.com/pdmxdd/liftoff-assignments)
 - Hannah Arredondo
-- Ikechukwu Arum
+- [Arum, Ikechukwu (@IkeAndLogic)](https://github.com/IkeAndLogic/liftoff-assignments)
 - [Burns, Brian (@bdburns6389)](https://github.com/bdburns6389/liftoff-assignments)
 - [Burt, Michael (@myburt)](https://github.com/myburt/liftoff-assignments)
 - [Castanon, Jacob (@jacastanon01)](https://github.com/jacastanon01/liftoff-assignments)
@@ -25,19 +25,19 @@
 - [Higley, Gloria (@gloriahigley)](https://github.com/gloriahigley/liftoff-assignments)
 - [Hockman, Rosangela (@Rolly-Polly)](https://github.com/Rolly-Polly/liftoff-assignments)
 - [Homer, Lucas (@lucas-homer)](https://github.com/lucas-homer/liftoff-assignments)
-- Brandy Hulett
+- [Hulett, Brandy (@brandycodes)](https://github.com/brandycodes/liftoff-assignments)
 - [Jackson, Shiquann (@shiquann)](https://github.com/shiquann/liftoff-assignments.git)
 - [Jones,Greg (@greg919617)](https://github.com/Greg919617/liftoff-assignments)
 - [Kemmis, Eric (@erickemmis)](https://github.com/erickemmis/liftoff-assignments)
-- Joshua King
-- Micah King
+- [King, Joshua (@KingIsTheMaster)](https://github.com/@KingIsTheMaster/liftoff-assignments)
+- [King, Micah(@NinjaTanuki)](https://github.com/NinjaTanuki/liftoff-assignments)
 - Shireen Korkzan
 - [Kramme, Alicia (@aliciammk)](https://github.com/aliciammk/liftoff-assignments)
 - Timothy Landwehr
 - [Liy, Anri (@Oceanblue713)](https://github.com/Oceanblue713/liftoff-assignments)
 - Miguel Luevano
 - Jeremy Maldonado
-- Andrew McGhie
+- [McGhie, Andrew (@3manr3su)](https://github.com/3manr3su/liftoff-assignments.git)
 - [Mumaw, Derek (@dmumaw72)](https://github.com/dmumaw72/liftoff-assignments)
 - [Pearman, Jonathan (@JPearman1019)](https://github.com/JPearman1019/liftoff-assignments)
 - Matthew Powers
