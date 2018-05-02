@@ -1,3 +1,4 @@
+
 # Project Planning
 For this assignment, you'll create some initial plans for your project.
 
@@ -9,7 +10,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-    <li><img src='https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/All%20UI.jpg?raw=true'></li>
+    <li><img src='https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/All%20UI.jpg?raw=true' width='900' height='600'></li>
+    <li><img src='https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20180502_061203.jpg' width='900' height='600'></li>
+    <li><img src='https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/IMG_20180502_061140.jpg' width='900' height='600'></li>
 </ul>
 ### Project Tracker
 
