@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 <ul>
-    <li>![Wire Frame image](https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/All%20UI.jpg)</li>
+    <li><img src='https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/All%20UI.jpg?raw=true'></li>
 </ul>
 ### Project Tracker
 
