@@ -8,9 +8,8 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 <ul>
-    <li>![Wire Frame image](https://s3-us-west-2.amazonaws.com/lc101-khoi-le/IMG_20180502_061140.jpg)</li>
+    <li>![Wire Frame image](https://github.com/Khoi938/liftoff-assignments/blob/master/P3-Project_Planning/All%20UI.jpg)</li>
 </ul>
 ### Project Tracker
 
