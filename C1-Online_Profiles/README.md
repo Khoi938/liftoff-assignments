@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Khoi Le GitHub](https://github.com/Khoi938)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Khoi Le LinkedIn](https://www.linkedin.com/in/khoi-le-8b17b915b/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+Uploaded above
